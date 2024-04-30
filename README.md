@@ -2,4 +2,4 @@
 
 ### This script includs generating input dataset and analysis.
 
-### This script was written by Python and is friendly to use.
+### This script was written in Python and is friendly to use.
